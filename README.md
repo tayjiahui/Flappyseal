@@ -6,6 +6,8 @@ This game is called Flappy Seal.
 This is my first unity project. 
 Download the appropiate zipped folder for your PC - macOS / Windows
 
+*Ignore the source code files*
+
 *Instructions to download the game (macOS !!)* 
 1. Download the zipped file for macOS
 2. Unzip the file
