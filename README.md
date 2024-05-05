@@ -2,6 +2,8 @@
 
 Go to Releases, v2.0
 
+Video Recording of game play: https://youtu.be/DxeKL6v6XPM
+
 This game is called Flappy Seal. 
 This is my first unity project. 
 Download the appropiate zipped folder for your PC - macOS / Windows
